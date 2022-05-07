@@ -1,0 +1,13 @@
+// import React from 'react';
+// import { ChatEngine } from 'react-chat-engine';
+
+// export function App() {
+// 	return (
+// 		<ChatEngine
+// 			height='100vh'
+// 			userName='admin'
+// 			userSecret='1234'
+// 			projectID='b5b6355c-ba3f-451a-9a2d-3a6c7dc1a030'
+// 		/>
+// 	);
+// }
